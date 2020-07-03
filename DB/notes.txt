@@ -1,0 +1,3 @@
+move db in this path 
+C:\Users\Your PC'Name \OneDrive\Documents
+and change in config file => connection

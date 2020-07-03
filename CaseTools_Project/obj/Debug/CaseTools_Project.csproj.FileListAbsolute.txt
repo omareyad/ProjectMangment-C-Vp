@@ -1,0 +1,15 @@
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\bin\Debug\CaseTools_Project.exe.config
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\bin\Debug\CaseTools_Project.exe
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\bin\Debug\CaseTools_Project.pdb
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.csprojAssemblyReference.cache
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.Form1.resources
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.Form2.resources
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.Properties.Resources.resources
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.csproj.GenerateResource.cache
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.csproj.CoreCompileInputs.cache
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.exe
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.pdb
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.Form3.resources
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.csproj.CopyComplete
+C:\Users\hucke\source\repos\CaseTools_Project\CaseTools_Project\obj\Debug\CaseTools_Project.Form4.resources
